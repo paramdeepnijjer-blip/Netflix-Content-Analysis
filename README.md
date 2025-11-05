@@ -41,6 +41,6 @@ It provides an analytical overview of how Netflix’s catalog evolved over time 
 ---
 
 ## 🔗 Project Links
-- **📊 Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/paramdeep.nijjer/favorites)  
+- **📊 Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/paramdeep.nijjer/vizzes)  
 - **💻 GitHub Repository:** [Netflix-Content-Analysis-2016](https://github.com/paramdeepnijjer-blip/Netflix-Content-Analysis-2016)
 
